@@ -1,8 +1,6 @@
 # GrowPlanet
 Grow Planet
 
-By Team Aogiri Tree IIIT Allahabad
-
 Video : [Grow Planet ](https://www.youtube.com/watch?v=s6tjEqioBhg)
 
 Live Demo : [Grow Planet Website](https://grow-planet.cyclic.app/)
