@@ -1,6 +1,4 @@
 # GrowPlanet
-Project for Google Cloud India Hackathon in Collaboration with GFG
-
 Grow Planet
 
 By Team Aogiri Tree IIIT Allahabad
